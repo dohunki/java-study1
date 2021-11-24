@@ -5,7 +5,7 @@ public class MultiArray {
 	public static void main(String[] args) {
 		// 이중 배열 [][]
 		String[][] texts= {
-				{"하나", "둘", "셋"},
+				{"하나", "둘", "셋"}, 
 				{"넷", "다섯", "여섯"},
 				{"일곱", "여덟", "아홉", "열"}
 		};
