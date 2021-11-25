@@ -1,13 +1,13 @@
-package parameter_5;
+package parameter;
 
 public class App {
 
 	public static void main(String[] args) {
-		// ¸Å°³º¯¼ö(ÆÄ¶ó¸ŞÅÍ)°¡ ÀÖ´Â ¸Ş¼Òµå »ç¿ë
+		// ë§¤ê°œë³€ìˆ˜(íŒŒë¼ë©”í„°)ê°€ ìˆëŠ” ë©”ì†Œë“œ ì‚¬ìš©
 		Calculator cal = new Calculator();
-		
 		int number = 5;
-		int result = cal.square(number);		
+		int result = cal.square(number);
+		
 		System.out.println(result);
 		
 		result = cal.plus(10, 10);

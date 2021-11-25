@@ -1,8 +1,8 @@
-package parameter_5;
+package parameter;
 
 public class Calculator {
 	int square(int x) {
-		return x * x; // ÀÔ·ÂµÈ xÀÇ °ªÀ» Á¦°öÀ¸·Î ¸®ÅÏ
+		return x * x; // ì…ë ¥ëœ xì˜ ê°’ì„ ì œê³±ìœ¼ë¡œ ë¦¬í„´
 	}
 
 	int plus(int x, int y) {

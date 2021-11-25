@@ -1,20 +1,20 @@
-package getterSetter_7;
+package getterSetter;
 
 public class App {
 
 	public static void main(String[] args) {
-		// ÀÎ½ºÅÏ½º º¯¼ö¿¡ Á¢±ÙÇÏ´Â ¸Ş¼Òµå get °ú set
+		// ì¸ìŠ¤í„´ìŠ¤ ë³€ìˆ˜ì— ì ‘ê·¼í•˜ëŠ” ë©”ì†Œë“œ get ê³¼ set
 		Person p1 = new Person();
-		//º¸¾È»ó °´Ã¼ÀÇ º¯¼ö¿¡ ¹Ù·Î Á¢±ÙÇÏÁö ¸øÇÔ
-		//p1.name = "Æë¼ö"; 
-		p1.setName("Æë¼ö");
+		//ë³´ì•ˆìƒ ê°ì²´ì˜ ë³€ìˆ˜ì— ë°”ë¡œ ì ‘ê·¼í•˜ì§€ ëª»í•¨
+		//p1.name = "í­ìˆ˜"; 
+		p1.setName("í­ìˆ˜");
 		System.out.println(p1.getName());
 		p1.setAge(25);
 		System.out.println(p1.getAge());
 		
 		Person p2 = new Person();
 		
-		p2.setName("±æµ¿");
+		p2.setName("ê¸¸ë™");
 		System.out.println(p2.getName());
 		p2.setAge(17);
 		System.out.println(p2.getAge());
