@@ -1,3 +1,4 @@
+package JavaJungsukCh_6;
 
 public class javaJungsukEx6_2 {
 

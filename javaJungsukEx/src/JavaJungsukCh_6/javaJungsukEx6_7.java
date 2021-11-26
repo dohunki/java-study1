@@ -1,3 +1,4 @@
+package JavaJungsukCh_6;
 class Data2 { int x; }
 
 public class javaJungsukEx6_7 {

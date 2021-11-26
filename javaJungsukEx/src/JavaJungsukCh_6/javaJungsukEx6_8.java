@@ -1,3 +1,4 @@
+package JavaJungsukCh_6;
 // 매개변수뿐만 아니라 반환타입도 참조형(객체의 주소)이 될 수 있다.
 class Data3 {int x; } //  주소 0x100 에 x가 디폴트로 있다.
 
