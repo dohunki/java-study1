@@ -20,7 +20,7 @@ class Car2 {
 	}
 	
 }
-public class javaJungsukEx6_13 {
+public class Ex6_13 {
 	public static void main(String[] args) {
 		Car2 c1 = new Car2();	
 		Car2 c2 = new Car2("blue");

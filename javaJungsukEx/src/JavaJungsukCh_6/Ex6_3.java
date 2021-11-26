@@ -1,6 +1,6 @@
 package JavaJungsukCh_6;
 
-public class javaJungsukEx6_3 {
+public class Ex6_3 {
 
 		public static void main(String args[]) {
 			System.out.println("Card.width = " + Card.width);

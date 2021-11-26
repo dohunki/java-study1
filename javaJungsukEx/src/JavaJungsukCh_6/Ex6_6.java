@@ -4,7 +4,7 @@ package JavaJungsukCh_6;
 // 기본형은 변수의 값을 읽기만 할 수 있고, 참조형은 읽고 변경도 할 수 있다.
 class Data { int x; } 
 
-public class javaJungsukEx6_6 {
+public class Ex6_6 {
 	public static void main(String[] args) {
 		Data d = new Data();
 		d.x = 10;

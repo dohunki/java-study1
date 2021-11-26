@@ -1,6 +1,6 @@
 package JavaJungsukCh_6;
 
-public class javaJungsukEx6_4 {
+public class Ex6_4 {
 	// 반복적으로 수행되는 여러 문장을 메서드로 작성
 	// 하나의 메서드는 한 가지 기능만 수행하도록 작성
 	// 반환타입 메서드이름(변수타입 변수명, 변수타입 변수명, ...) {	 // 선언부

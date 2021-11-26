@@ -1,7 +1,7 @@
 package JavaJungsukCh_6;
 class Data2 { int x; }
 
-public class javaJungsukEx6_7 {
+public class Ex6_7 {
 	public static void main(String[] args) {
 		Data2 d = new Data2();
 		d.x = 10;

@@ -24,7 +24,7 @@ class MyMath2 {
 	 * 		iv 사용가능, 인스턴스 멤버(iv, im)과 관련된 작업
 	 * 		인스턴스 생성 후 //참조변수.메서드이름()// 으로 작업(호출)
 	 */
-public class javaJungsukEx6_9 {
+public class Ex6_9 {
 	public static void main(String args[]) {
 		// 클래스 메서드(iv를 사용하지 않을 때) 호출. 인스턴스(객체) 생성없이 호출가능
 		System.out.println(MyMath2.add(200L, 100L));

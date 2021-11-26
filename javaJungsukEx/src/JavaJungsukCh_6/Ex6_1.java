@@ -1,6 +1,6 @@
 package JavaJungsukCh_6;
 
-public class javaJungsukEx6_1 {
+public class Ex6_1 {
 
 	public static void main(String args[]) { 
 		Tv tv;                 // Tv인스턴스를 참조하기 위한 변수 t를 선언       
