@@ -1,4 +1,4 @@
-package JavaJungsukCh_7;
+
 
 	// (가)로 표현한 것과 (나)로 표현한 것은 같다.
 class MyPoint4 extends Object {

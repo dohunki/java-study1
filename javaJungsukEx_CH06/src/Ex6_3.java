@@ -1,4 +1,4 @@
-package JavaJungsukCh_6;
+
 
 public class Ex6_3 {
 

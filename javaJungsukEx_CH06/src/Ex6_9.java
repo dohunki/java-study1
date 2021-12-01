@@ -1,4 +1,4 @@
-package JavaJungsukCh_6;
+
 	// 메서드 앞에 static이 붙어 있으면 클래스메서드이고 붙어 있지 않으면 인스턴트 메서드이다.
 class MyMath2 {
 	long a, b; // 인스턴스 변수(iv): 클래스 전체에서 사용

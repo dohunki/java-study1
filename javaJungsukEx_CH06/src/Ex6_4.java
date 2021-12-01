@@ -1,4 +1,4 @@
-package JavaJungsukCh_6;
+
 
 public class Ex6_4 {
 	// 반복적으로 수행되는 여러 문장을 메서드로 작성

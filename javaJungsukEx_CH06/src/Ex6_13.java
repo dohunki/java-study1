@@ -1,4 +1,4 @@
-package JavaJungsukCh_6;
+
 
 class Car2 {
 	String color;		// »ö»ó

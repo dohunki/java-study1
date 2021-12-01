@@ -1,4 +1,4 @@
-package JavaJungsukCh_7;
+
 
 class MyPoint3 {
 	int x;
