@@ -1,0 +1,9 @@
+package custom_exception_7.exceptions;
+// Exception을 상속받아서 
+public class TempOutOfRangeException extends Exception {
+	private static final long serialVersionUID= 1L;
+	
+	public TempOutOfRangeException(String message) {
+		super(message); // 입력된 메세지로 새 예외 객체 생성
+	}
+}
