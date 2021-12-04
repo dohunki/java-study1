@@ -16,6 +16,6 @@ public class App {
 	public static void main(String[] args) {
 
 		Timer timer= new Timer();
-		timer.scheduleAtFixedRate(new Task(), 0, 1000);
+		timer.scheduleAtFixedRate(new Task(), 0L, 1000L);
 	}
 }
