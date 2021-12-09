@@ -23,7 +23,7 @@ public class Ex6_3 {
 			c1.width = 50;
 			c1.height = 80;
 			// 클래스 변수의 값을 변경
-			// 여기서 c1은 클래스변수로 원래는 Card로 적어야 한다.
+			// 여기서 c1은 클래스변수로 원래는 Card.width= 50; Card.height= 80; 으로 적어야 한다.
 			// Card인스턴스인 c1과 c2는 클래스 변수인 width와 height를 공유하기 때문에 
 			// c1의 width와 height를 변경하면 c2의 width와 height 값도 바뀐 것과 같은 결과를 얻는다.
 

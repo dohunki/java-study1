@@ -44,9 +44,9 @@ public class BookList {
 	
 	// 3.메서드
 	void getConnection() {
-		String url= "jdbc:oracle:thin:@localhost:1521:xe";
-		String userid= "madang"; // c## 추가
-		String pwd= "madang"; // c## 추가
+		String url= "jdbc:oracle:thin:@localhost:1521:xe"; // 오라클 연결창 참고
+		String userid= "madang"; // ver21 c## 추가
+		String pwd= "madang"; // ver21 c## 추가
 		
 		try {
 			Class.forName("oracle.jdbc.driver.OracleDriver");
@@ -94,12 +94,12 @@ public class BookList {
 //				i++;
 				
 				// 3.객체
-				Book bookObj = new Book(rs.getInt(1),
-								  rs.getString(2),
-								  rs.getString(3),
-								  rs.getInt(4));
-				
-				printObj(bookObj);
+//				Book bookObj = new Book(rs.getInt(1),
+//								  rs.getString(2),
+//								  rs.getString(3),
+//								  rs.getInt(4));
+//				
+//				printObj(bookObj);
 				
 				// 4.객체 배열
 				bookArr[i]= new Book(rs.getInt(1),

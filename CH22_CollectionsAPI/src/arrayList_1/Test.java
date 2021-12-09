@@ -1,6 +1,7 @@
 package arrayList_1;
 
 import java.util.ArrayList;
+//import java.util.LinkedList;
 import java.util.Scanner;
 
 public class Test {
@@ -8,6 +9,7 @@ public class Test {
 	public static void main(String[] args) {
 		Scanner scanner= new Scanner(System.in);		
 		ArrayList<Double> numbers= new ArrayList<>();
+//		LinkedList<Double> numbers= new LinkedList<>();
 		double total= 0;
 		
 		while(true) {		
