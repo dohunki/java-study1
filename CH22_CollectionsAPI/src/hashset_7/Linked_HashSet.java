@@ -1,7 +1,8 @@
 package hashset_7;
 
-import java.util.HashSet;
-public class LinkedHashSet {
+import java.util.LinkedHashSet;
+
+public class Linked_HashSet {
 	public static void main(String[] args) {
 		// 링크드해시셋은 중복이 안되고 입력된 순서대로 출력됨
 		LinkedHashSet<String> fruits2= new LinkedHashSet<>();

@@ -74,9 +74,9 @@ public class BookList {
 			int i=0;
 			while (rs.next()) {
 //				System.out.println( rs.getInt(1));
-//				System.out.println("\t\t\t"+ rs.getString(2));
-//				System.out.println("\t\t\t\t\t\t\t\t\t\t\t"+ rs.getString(3));
-//				System.out.println("\t\t\t\t\t\t\t\t\t\t"+ rs.getInt(4));
+//				System.out.print("\t"+ rs.getString(2));
+//				System.out.print("\t\t"+ rs.getString(3));
+//				System.out.print("\t\t\t"+ rs.getInt(4));
 				
 				// 1.변수
 //				BOOKID= rs.getInt(1);
@@ -103,7 +103,7 @@ public class BookList {
 				
 				// 4.객체 배열
 				bookArr[i]= new Book(rs.getInt(1),
-						  			rs.getString(2),
+									rs.getString(2),
 						  			rs.getString(3),
 						  			rs.getInt(4));
 				i++;		
