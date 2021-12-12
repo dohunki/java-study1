@@ -34,6 +34,4 @@ public class Ex7_inheritance {
 		System.out.println("c.p.y="+ c.p.y); // Æ÷ÇÔ
 		System.out.println("c.r="+ c.r);
 	}
-	
-
 }

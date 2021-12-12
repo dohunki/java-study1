@@ -13,7 +13,7 @@ class AudioPlayer extends Player {
 public class PlayerTest {
 	
 	public static void main(String[] args) {
-//		player p= new Player(); // 추상클래스의 객체를 생성
+//		player p= new Player(); // 에러. 추상 클래스는 상속을 통해 완성해야 객체 생성가능
 //		AudioPlayer ap= new AudioPlayer(); // 다형성으로 아래의 실행과 결과가 같다.
 		Player ap= new AudioPlayer(); // 다형성, Player의 메서드가 추상메서드이지만 실제 호출되어 구현되는 것은 AudioPlayer 이다.
 		ap.play(100);
