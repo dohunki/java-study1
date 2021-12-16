@@ -1,4 +1,4 @@
-package application_1_1;
+package application_1;
 
 public class App { // 프로젝트를 실행하기 위한 클래스
 

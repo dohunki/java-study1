@@ -1,4 +1,4 @@
-package application_1_1;
+package application_1;
 
 import java.util.Scanner;
 
